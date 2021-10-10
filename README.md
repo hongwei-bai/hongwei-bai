@@ -10,7 +10,7 @@
 
 
 ##### Web(React)
-- [homepage-application-service](https://github.com/hongwei-bai/homepage-application-service)
+- [react-homepage-demo](https://github.com/hongwei-bai/react-homepage-demo)
 
 ###### Demo website: [Hongwei's home portal](https://hongwei-test1.top/)
 
