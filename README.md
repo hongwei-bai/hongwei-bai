@@ -15,7 +15,7 @@
 [![YouTube Video Views](https://img.shields.io/youtube/views/apAOzJ2zh6s?style=social)](https://www.youtube.com/watch?v=apAOzJ2zh6s)
 
 ##### Backend
-- [Springboot authentication application](https://github.com/hongwei-bai/application-service-authentication) [![CircleCI](https://circleci.com/gh/hongwei-bai/application-service-authentication/tree/master.svg?style=svg)](https://circleci.com/gh/hongwei-bai/application-service-authentication/tree/master)
+- [Springboot authentication application](https://github.com/hongwei-bai/application-service-authentication) [![CircleCI](https://circleci.com/gh/hongwei-bai/application-service-authentication/tree/main.svg?style=svg)](https://circleci.com/gh/hongwei-bai/application-service-authentication/tree/main)
 - [covid-application-service](https://github.com/hongwei-bai/covid-application-service) [![CircleCI](https://circleci.com/gh/hongwei-bai/covid-application-service/tree/main.svg?style=svg)](https://circleci.com/gh/hongwei-bai/covid-application-service/tree/main)
 - [sports-application-service](https://github.com/hongwei-bai/application-service-sports) [![CircleCI](https://circleci.com/gh/hongwei-bai/application-service-sports/tree/main.svg?style=svg)](https://circleci.com/gh/hongwei-bai/application-service-sports/tree/main)
 
